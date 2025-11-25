@@ -1,7 +1,7 @@
 {
-  "name": "deneth-md",
+  "name": "niki-md",
   "version": "1.0.0",
-  "description": "DENETH-MD WhatsApp bot created using Node.js",
+  "description": "NIKI-MD WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name deneth-md",
